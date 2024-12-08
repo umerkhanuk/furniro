@@ -1,4 +1,4 @@
-import Image from "next/image"
+
 import { MdOutlineLocationOn } from "react-icons/md";
 import { FaPhoneAlt } from "react-icons/fa";
 import { IoTime } from "react-icons/io5";
