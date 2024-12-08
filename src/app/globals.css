@@ -25,3 +25,43 @@ body {
     text-wrap: balance;
   }
 }
+.heroImage{
+  /* width: 50rem;
+  height: 63rem; */
+}
+#banner{
+  background-image: url('/banner.png');
+}
+.heroText{
+  width: 40%;
+  /* height: 16rem; */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 6px;
+  padding: 4rem;
+  line-height: 2rem;
+}
+
+.heroText h6{
+  font-weight: bold;
+}
+
+.heroText h3{
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: #B88E2F;
+}
+
+.heroText .buyBtn{
+  background-color: #B88E2F;
+  padding: 0.5rem 3rem 0.5rem 3rem;
+  color: white;
+}
+#mybtn{
+  padding: 5px 40px;
+}
+#cartbgimg{
+  background: url('./public/ban.png');
+  min-height: 316px;
+}
